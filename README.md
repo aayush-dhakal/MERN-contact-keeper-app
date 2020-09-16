@@ -32,7 +32,7 @@ After cloning the project, run these commands:
 
 ### `npm install`
 
-then,
+then
 
 ### `npm run clientinstall`
 

@@ -28,16 +28,14 @@ https://pacific-gorge-94924.herokuapp.com/
 
 ## Available Scripts
 
-In the project directory, first run:
+After cloning the project, run these commands:
 
 ### `npm install`
 
-Then change directory to client by hitting command cd client. After that again run command:
+then,
 
-### `npm install`
+### `npm run clientinstall`
 
-After that agian browse in the project directory by hitting command cd ../
-<br />
-Now finally run this command for live preview:
+After finally to start the project in local dev environment, hit this command: 
 
 ### `npm run dev`

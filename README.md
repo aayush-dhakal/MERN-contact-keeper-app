@@ -36,6 +36,6 @@ then
 
 ### `npm run clientinstall`
 
-After finally to start the project in local dev environment, hit this command: 
+And finally to start the project in local dev environment, hit this command: 
 
 ### `npm run dev`
